@@ -10,4 +10,5 @@
 - The game varies the number of allowed guesses based on the range of the secret number — seven guesses for range 0 to 100, ten guesses for range 0 to 1000.
 
 ### Example: 
-![image](https://user-images.githubusercontent.com/58776067/181762765-a826ec4b-54ff-4dc5-a729-0d40a62d3813.png)
+![image](https://user-images.githubusercontent.com/58776067/181767697-5b231a4f-b3aa-42cf-a23a-6685a35453e5.png)
+
